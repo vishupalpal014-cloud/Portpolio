@@ -5,7 +5,7 @@ import { FaHome, FaChartPie, FaUsers, FaCog } from "react-icons/fa";
 
 function Dashboard() {
   const stats = [
-    { title: "Users", value: "1,250", icon: <FaUsers /> },
+    { title: "Users", value: "1,251", icon: <FaUsers /> },
     { title: "Sales", value: "$45K", icon: <FaChartPie /> },
     { title: "Projects", value: "28", icon: <FaHome /> },
     { title: "Settings", value: "Active", icon: <FaCog /> },
